@@ -1,4 +1,4 @@
-alert("Lecture 2");//one time pop up 
+alert("Lecture 2");//one time pop up ;
 let name = prompt("hii"); // alert + input
 console.log(name);
 //ARITHMETIC OPERATORS
