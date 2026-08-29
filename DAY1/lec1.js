@@ -4,7 +4,7 @@ console.log(name);
 //there is nothing inside x;
 x=null;
 console.log(x);
-//don't know what inside y;
+//don't know what inside y
 y=undefined;
 console.log(y);
 //boolean type 
